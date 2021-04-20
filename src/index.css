@@ -1,0 +1,40 @@
+
+.board {
+  width: 100%;
+  
+  background-color: grey;
+}
+
+.panel-area {
+  background-color: coral;
+}
+
+.panel {
+  float:left;
+  background-color: black;
+  padding: 0px;
+  width: 400px;
+  height: 100vh;
+}
+
+.tile {
+  background-color: red;
+  padding: 2px;
+  height: 100px;
+  text-align: center;
+}
+
+.design {
+  margin-right: 30px;
+  margin-left: 30px;
+  width: 700px;
+  float:right;
+  background-color: gray;
+  height: 500px;
+}
+
+.design-tile {
+  border-radius: 40px;
+  background-color: white;
+  margin: 5px;
+}
